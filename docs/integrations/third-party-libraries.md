@@ -36,6 +36,7 @@ This can be done using third-party libraries created by the community.
 - [use-zustand](https://github.com/zustandjs/use-zustand) — Another custom hook to use Zustand vanilla store.
 - [vue-zustand](https://github.com/wobsoriano/vue-zustand) — State management solution for Vue based on Zustand.
 - [zoov](https://github.com/InfiniteXyy/zoov) — State management solution based on Zustand with Module-like API.
+- [zubridge](https://github.com/goosewobbler/zubridge) — Use Zustand in cross-platform apps, seamlessly. Supports Electron & Tauri.
 - [zukeeper](https://github.com/oslabs-beta/Zukeeper) — Native devtools with state and action tracking, diffing, tree display, and time travel
 - [zundo](https://github.com/charkour/zundo) — 🍜 Undo and redo middleware for Zustand, enabling time-travel in your apps.
 - [zustand-ards](https://github.com/ivoilic/zustand-ards) — 💁 Simple opinionated utilities for example alternative selector formats and default shallow hooks
@@ -55,6 +56,7 @@ This can be done using third-party libraries created by the community.
 - [zustand-middleware-xstate](https://github.com/biowaffeln/zustand-middleware-xstate) — A middleware for putting XState state machines into a global Zustand store.
 - [zustand-middleware-yjs](https://github.com/joebobmiles/zustand-middleware-yjs) — A middleware for synchronizing Zustand stores with Yjs.
 - [zustand-multi-persist](https://github.com/mooalot/zustand-multi-persist) — A middleware for persisting and rehydrating state to multiple storage engines.
+- [zustand-namespaces](https://github.com/mooalot/zustand-namespaces) - One store to rule them all. Namespaced Zustand stores.
 - [zustand-persist](https://github.com/roadmanfong/zustand-persist) — A middleware for persisting and rehydrating state.
 - [zustand-pub](https://github.com/AwesomeDevin/zustand-pub) — Cross-Application/Cross-Framework State Management And Sharing based on zustand and zustand-vue for React/Vue.
 - [zustand-querystring](https://github.com/nitedani/zustand-querystring) — A Zustand middleware that syncs the store with the querystring.
@@ -70,4 +72,3 @@ This can be done using third-party libraries created by the community.
 - [zustand-yjs](https://github.com/tandem-pt/zustand-yjs) — Zustand stores for Yjs structures.
 - [zusteller](https://github.com/timkindberg/zusteller) — Your global state savior. "Just hooks" + Zustand.
 - [zusty](https://github.com/oslabs-beta/Zusty) — Zustand tool to assist debugging with time travel, action logs, state snapshots, store view, render time metrics and state component tree.
-- [zutron](https://github.com/goosewobbler/zutron) — Use Zustand in Electron apps, seamlessly.
